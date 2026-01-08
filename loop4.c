@@ -125,3 +125,68 @@ int fib(int a){
         int Fib=fib1+fib2;
         //printf(" fib of %d",a,Fib);
     }
+
+// here i am just revised some topics 
+#include<stdio.h>
+void printhello();// here are all user made function 
+int  summa(int a, int b);
+int neg( int a, int b);
+float im( int a, int b);
+int sd( int a, int b);
+int dd( int a, int b);
+//recurssion 
+int arr( int n);
+
+// now main here goes what i am giving result and on 5 th day i just revise some function topic and made some function
+
+int main(){
+printhello();
+int a,b; 
+printf(" enter number:");
+scanf( "%d%d",&a,&b);
+int s= summa (a,b);
+printf(" sum is %d\n",s);
+int p=neg( a,b);
+printf(" subtraction is %d\n",p);
+      int g= im( a,b);
+printf(" multiply is %f\n", g);
+ int d= sd( a,b);
+ printf("  modulus is %d\n",sd);
+ printf(" average of two number is %d",dd(a,b));
+ 
+return 0;
+}
+
+
+
+// function definiton
+void printhello() {
+    printf(" hello cutie \n");
+    printf(" are you happy?\n");
+    
+}
+
+int summa(int a,int b){
+    
+ return a+b ;  
+     
+}
+
+int neg( int a ,int b){
+     return a-b;
+}
+
+float  im(int a,int b){
+   return  a*b;
+}
+
+int sd( int a, int b){
+    return  a%b;
+}
+
+ int dd( int a, int b){
+    return (a+b)/2;
+ }
+
+
+ 
