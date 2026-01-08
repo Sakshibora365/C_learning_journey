@@ -31,3 +31,5 @@ its kinda fun while learning but its time taking i will learn as soon as it can 
 here i am on 3 rd day revising all concepts and completing all topics yee if else and some question with starting loop..thats i am gonna do while side working on frontend yesterday i almost revised html yet diva tag and i need to revise rest of thats i am gonna do today :>>>> its started feeling better while working on daily basis..
 
 on 4 th day i completed topic of loops and started funciton and done with this topic beacuse i alrdy studied that topic last month it did not take me a lot of time and complete recusrion too for today and also try fibonacci series
+
+on 5 th day i am out like my all day is wthout laptop so i just revised my topic in night just go through yet pointer tomorrow i am covering pointers..
