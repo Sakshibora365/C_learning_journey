@@ -33,3 +33,5 @@ here i am on 3 rd day revising all concepts and completing all topics yee if els
 on 4 th day i completed topic of loops and started funciton and done with this topic beacuse i alrdy studied that topic last month it did not take me a lot of time and complete recusrion too for today and also try fibonacci series
 
 on 5 th day i am out like my all day is wthout laptop so i just revised my topic in night just go through yet pointer tomorrow i am covering pointers..
+
+6N 6 TH DAY I REVISED ARRAY AND DID SOME QUESTION I THINK THAT DOING ARRAY AND STRING BEFORE POINTER IS IS MORE BENEFICAL AND THAT IWILL TRYY OKAAY TO COMPLETE ARRAY AND STRING IN NEXT 2 DAYS LIKE SATURDAY AND SUNDAY BECUSE FROM NEXT  WEEK  I HAVE SOME WORK TO DO FOR WHICH I NEED TO GO OUT SO THATS WHYYY OKK RYT NOW I NEED TO COMPLETE IT ...
