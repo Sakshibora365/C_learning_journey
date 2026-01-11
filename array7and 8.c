@@ -27,3 +27,37 @@ int main(){
 //its faster way to find elemnts but here aray must be sorted thats imp here and idea of it 
 //like go to mid element and if key is not same then key smaller than that go left and if is big then 
 //go to right and it will happen until it found or array done 
+
+//here 8 th day?????????
+#include<stdio.h>
+int main(){
+  int n;
+  printf(" enter number of elements:");
+  scanf("%d",&n);
+  int arr[n];
+  printf(" enter elements:");
+  for(int i=0;i<n;i++){ scanf("%d",&arr[i]);}
+  int low=0;
+  int high=n-1;
+  int mid;
+  int found=0;
+  int key;
+  printf((" number you want to check (key):"));
+  scanf("%d",&key);
+  while (low <=high){
+  mid=(low+high)/2;
+  if(key==arr[mid]){
+    printf(" this number exist as middle term in array");
+  found=1;
+  break;
+}
+  else if(key<arr[mid]){
+  high =  mid-1;}
+  else {
+  low=mid+1;}}
+  if (found==0){
+    printf(" that number does not even exist in array");
+  } return 0;
+}
+//remeber that break is used inside loop and while condion when strt then they have 0 as strt so its sign is 
+//lesser okky and use right use of bracketss..
